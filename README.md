@@ -1,16 +1,14 @@
-## Hi there 👋
+🧑‍💻 Hi there, I’m Anjana krishnan!
+💡 About Me
 
-<!--
-**Anjanaaaaakrishnan/Anjanaaaaakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: [Block Chain Technology]
 
-Here are some ideas to get you started:
+🌱 Learning: [Web development]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: Python, JavaScript, html,css
+
+🧠 Interests: AI, Web Development, Competitive Programming
+
+⚙️ Tools I use often: VS Code, Git, Linux ,Pycharm
+
+📫 How to reach me: [4sagesse@gmail.com]
