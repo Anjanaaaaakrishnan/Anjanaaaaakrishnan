@@ -5,9 +5,9 @@
 
 🌱 Learning: [Web development]
 
-💬 Ask me about: Python, JavaScript, html,css
+💬 Ask me about: Python, JavaScript, html,css,Tailwind,Node,Express,MongoDB
 
-🧠 Interests: AI, Web Development, Competitive Programming
+🧠 Interests: AI, Web Development, Competitive Programming,Coding
 
 ⚙️ Tools I use often: VS Code, Git, Linux ,Pycharm
 
